@@ -23,7 +23,7 @@ body {
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
 }
 
 #footer {
