@@ -19,7 +19,7 @@
 
 body {
   width: 1000px;
-  /* margin: auto; */
+  margin: auto;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
