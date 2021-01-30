@@ -18,8 +18,8 @@
 }
 
 body {
-  width: 1100px;
-  left: 400px;
+  width: 1200px;
+  left: 600px;
   margin: auto;
   display: flex;
   flex-flow: column nowrap;
